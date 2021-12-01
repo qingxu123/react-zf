@@ -3,7 +3,7 @@ import { Route } from 'react-router-dom'
 import { TabBar } from 'antd-mobile'
 
 import News from '../News'
-import Index from '../Index'
+import Index from '../index'
 import HouseList from "../HouseList";
 import Profile from "../Profile";
 import './index.css'
